@@ -5,5 +5,5 @@ This is a Demo for Git &amp; Github class.
 Shradha Khapra
 
 # Student
-Delta Student
+Ramakrushna Nahak
 
